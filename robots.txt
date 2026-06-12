@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://silverlocksmith.vercel.app/sitemap.xml
